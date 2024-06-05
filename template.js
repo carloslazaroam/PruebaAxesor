@@ -85,6 +85,8 @@ async function getInfo(XXX) {
 
       });
 
+      /*ESTE COMENTARIO SOLO SIRVE DE PRYEBA, PARA TRABAJAR EN OTRAS RAMAS"*/
+
 }
 
 module.exports = { getInfo };
